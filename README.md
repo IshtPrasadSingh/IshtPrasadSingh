@@ -8,6 +8,10 @@
 - 🤝 Interested in contributing to Open Source and collaborating with developers to learn and grow.
 
 --- 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IshtPrasadSingh&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ## 🛠 Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -31,9 +35,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshtPrasadSingh&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IshtPrasadSingh&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ## 🌐 Connect With Me
