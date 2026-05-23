@@ -40,15 +40,15 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/isht-prasad-singh-08a43b324?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
 </a>
 &nbsp;
 <a href="https://github.com/IshtPrasadSingh" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=github" height="30" />
 </a>
 &nbsp;
 <a href="https://leetcode.com/IshtPrasadSingh/" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/leetcode" height="40" />
+<img align="center" src="https://cdn.simpleicons.org/leetcode" height="30" />
 </a>
 </p>
