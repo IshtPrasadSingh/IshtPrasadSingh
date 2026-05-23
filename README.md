@@ -40,7 +40,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/isht-prasad-singh-08a43b324?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
+<a href="https://linkedin.com/in/isht-prasad-singh-08a43b324?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
 </a>
 &nbsp;
